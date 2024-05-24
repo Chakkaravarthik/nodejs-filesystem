@@ -1,0 +1,16 @@
+{
+  "name": "node-task",
+  "version": "1.0.0",
+  "description": "node make file task\u001b[D\u001b[D\u001b[D\u001b[Dand read file task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "express-server": "node express-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
